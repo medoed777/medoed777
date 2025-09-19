@@ -15,7 +15,7 @@
 ✉️ &nbsp;You can shoot me an email at mister.skorpion4ik97@gmail.com. I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://ekaterinburg.hh.ru/resume/e3cf6e29ff0f44f2920039ed1f417735755a30)) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>/
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,3 +33,27 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://vk.com/id440889509"><img src="https://img.shields.io/badge/-@Medgromov-4B9CD3?style=flat&logo=VK&logoColor=blue"/></a>
+<a href="mailto:alexey777zaitsev@yandex.ru"><img src="https://img.shields.io/badge/-alexey777zaitsev%40yandex.ru-4B9CD3?style=flat&logo=Yandex&logoColor=red"/></a>
+<a href="mailto:mister.skorpion4ik@mail.ru"><img src="https://img.shields.io/badge/-mister.skorpion4ik%40mail.ru-4B9CD3?style=flat&logo=Mail.Ru&logoColor=purple"/></a>
+<a href="mailto:alexey.zaycev1997@gmail.com"><img src="https://img.shields.io/badge/-alexey.zaycev1997%40gmail.com-4B9CD3?style=flat&logo=Gmail&logoColor=pink"/></a>
+<a href="https://t.me/Medgromov"><img src="https://img.shields.io/badge/-@Medgromov-4B9CD3?style=flat&logo=Telegram&logoColor=blue"/></a>
+</p>
+
+-----
+Credits: [medoed777](https://github.com/medoed777)
+
+Last Edited on: 19/09/2025

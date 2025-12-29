@@ -21,8 +21,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-%232671E5?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badgeflat&logo=django&logoColor=white)&nbsp;
-![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-05122A?style=flat&logo=d&logoColor=092E20)&nbsp;
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)&nbsp;
+![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-05122A?style=flat&logo=d&logoColor=092E20)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![FastApi](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
